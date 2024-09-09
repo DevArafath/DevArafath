@@ -1,11 +1,14 @@
-## Hi, I am Mohamed Arafath. 
+## Hi, I am Mohamed Arafath. 💻
 *Web & System Developer.*
 ##### A driven and dedicated professional with a passion for Management, Operations, Customer Service, IT, Graphic Designing, and Logistics. Possessing strong negotiation, lateral thinking, and time management skills, I strive to achieve excellence in all tasks while maintaining a customer-focused and team-oriented approach. Committed to continuous learning and innovation, I am eager to contribute to a dynamic, high-growth organization that values open-mindedness and enthusiasm.
 
+- 📞 - Hotline Number  
+- 💬 - Email ID Here
+
+
+
+  
 <!--
-**DevArafath/DevArafath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 Welcome to my profile
 Here are some ideas to get you started:
 
