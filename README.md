@@ -1,21 +1,6 @@
-## Hi there 👋
-
-
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-
+## Hi, I am Mohamed Arafath. 
+*Web & System Developer.*
+##### A driven and dedicated professional with a passion for Management, Operations, Customer Service, IT, Graphic Designing, and Logistics. Possessing strong negotiation, lateral thinking, and time management skills, I strive to achieve excellence in all tasks while maintaining a customer-focused and team-oriented approach. Committed to continuous learning and innovation, I am eager to contribute to a dynamic, high-growth organization that values open-mindedness and enthusiasm.
 
 <!--
 **DevArafath/DevArafath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
