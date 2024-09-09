@@ -2,7 +2,8 @@
 
 <!--
 **DevArafath/DevArafath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
