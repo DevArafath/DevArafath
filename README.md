@@ -1,4 +1,4 @@
-## Hi, I am Mohamed Arafath. 💻
+## Hi, I am Mohamed Arafath. <img height=30 alt="Get it on GitHub" src="img/heading_logo.png"/>
 *Web & System Developer.*
 ##### A driven and dedicated professional with a passion for Management, Operations, Customer Service, IT, Graphic Designing, and Logistics. Possessing strong negotiation, lateral thinking, and time management skills, I strive to achieve excellence in all tasks while maintaining a customer-focused and team-oriented approach. Committed to continuous learning and innovation, I am eager to contribute to a dynamic, high-growth organization that values open-mindedness and enthusiasm.
 
