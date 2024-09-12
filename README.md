@@ -14,7 +14,7 @@
 <div align="right">
 
 [<img height=50 alt="Get it on GitHub" src="img/github.gif"/>](https://github.com/DevArafath/)
-[<img height=50 alt="Get it on GitHub" src="img/linkedIn.gif"/>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohamed-arafath1/)
+[<img height=50 alt="Get it on GitHub" src="img/linkedIn.gif"/>](https://www.linkedin.com/in/mohamed-arafath1/)
 
 #
 
